@@ -21,3 +21,15 @@ public class Variable2{
 		System.out.println(statements);
 	}
 }
+
+
+/*
+OUTPUT :
+
+Mochammad Ihza Rizky Karim
+19
+A
+true
+false
+
+*/
