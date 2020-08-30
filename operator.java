@@ -66,3 +66,27 @@ public class operator{
 		// false = tidak
 	}
 }
+
+
+/*
+OUTPUT :
+
+Hasil dari a + b = 13
+Hasil dari a - b = 7
+Hasil dari a / b = 3
+Hasil dari a * b = 30
+Hasil dari a % b = 1
+Hasil Penjumlahan 23
+Hasil Pengurangan 20
+Hasil Pembagian6
+Hasil Perkalian 18
+Hasil Modulus 0
+Apakah nilai1 lebih besar dari nilai2? true
+Apakah nilai1 lebih kecil dari nilai2? false
+Apakah nilai1 lebih besar sama dengan  nilai2? true
+Apakah nilai1 kurang dari sama dengan  nilai2? false
+Apakah nilai1 sama dengan  nilai2? false
+Apakah nilai1 tidak sama dengan  nilai2? true
+iya
+
+*/
