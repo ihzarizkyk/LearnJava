@@ -1,4 +1,4 @@
-# LearnJava
+# Learn Java
 ---
 
 ### How To Compile (With OpenJDK) 
