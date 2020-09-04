@@ -15,8 +15,11 @@ Open Terminal
 `public class name{
   
   public static void main(String[] args)
+  
   {
+  
     // code here
     System.out.printl("Hello World");
   }
+  
 }`
